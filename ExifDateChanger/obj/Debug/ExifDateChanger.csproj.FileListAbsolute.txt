@@ -1,0 +1,14 @@
+D:\Yandex.Disk\VS Projects\ExifDateChanger\ExifDateChanger\bin\Debug\ExifDateChanger.exe.config
+D:\Yandex.Disk\VS Projects\ExifDateChanger\ExifDateChanger\bin\Debug\ExifDateChanger.exe
+D:\Yandex.Disk\VS Projects\ExifDateChanger\ExifDateChanger\bin\Debug\ExifDateChanger.pdb
+D:\Yandex.Disk\VS Projects\ExifDateChanger\ExifDateChanger\obj\Debug\ExifDateChanger.Form1.resources
+D:\Yandex.Disk\VS Projects\ExifDateChanger\ExifDateChanger\obj\Debug\ExifDateChanger.Properties.Resources.resources
+D:\Yandex.Disk\VS Projects\ExifDateChanger\ExifDateChanger\obj\Debug\ExifDateChanger.csproj.GenerateResource.Cache
+D:\Yandex.Disk\VS Projects\ExifDateChanger\ExifDateChanger\obj\Debug\ExifDateChanger.exe
+D:\Yandex.Disk\VS Projects\ExifDateChanger\ExifDateChanger\obj\Debug\ExifDateChanger.pdb
+D:\Yandex.Disk\VS Projects\ExifDateChanger\ExifDateChanger\bin\Debug\Newtonsoft.Json.dll
+D:\Yandex.Disk\VS Projects\ExifDateChanger\ExifDateChanger\bin\Debug\Newtonsoft.Json.xml
+D:\Yandex.Disk\VS Projects\ExifDateChanger\ExifDateChanger\obj\Debug\ExifDateChanger.csprojResolveAssemblyReference.cache
+E:\YandexDisk\VS Projects\ExifDateChanger\ExifDateChanger\bin\Debug\ExifDateChanger.exe.config
+E:\YandexDisk\VS Projects\ExifDateChanger\ExifDateChanger\obj\Debug\ExifDateChanger.exe
+E:\YandexDisk\VS Projects\ExifDateChanger\ExifDateChanger\obj\Debug\ExifDateChanger.pdb
